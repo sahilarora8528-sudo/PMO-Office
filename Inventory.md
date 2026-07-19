@@ -1,6 +1,3 @@
 # PMO Inventory
 
-| Document | Status |
-|----------|--------|
-| Project Plan | Pending |
-| Inventory | Created |
+This is a devops project
